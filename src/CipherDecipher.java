@@ -1,3 +1,4 @@
+/*   Class to implement String encrytion and decryption		*/
 public class CipherDecipher {
 
 	public static void main(String args[]) {
